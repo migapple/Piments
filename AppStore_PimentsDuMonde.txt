@@ -1,0 +1,200 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║           APP STORE CONNECT — PIMENTS DU MONDE                      ║
+║           com.michel.garlandat.pimentsmonde                         ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FRANÇAIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NOM (30 car.)
+──────────────
+Piments du Monde
+
+SOUS-TITRE (30 car.)
+──────────────────────
+Varietes et Echelle de Scoville
+
+TEXTE PROMOTIONNEL (170 car. — change sans nouvelle soumission)
+────────────────────────────────────────────────────────────────
+30 varietes, carte interactive, recettes authentiques et quiz : tout
+sur les piments du monde, du doux poivron au redoutable Pepper X.
+
+DESCRIPTION
+────────────
+Plongez dans l'univers fascinant des piments du monde avec cette
+application de reference bilingue francais-anglais.
+
+--- CATALOGUE ---
+30 varietes detaillees avec photos Wikipedia, origines geographiques,
+noms scientifiques, valeurs Scoville et usages culinaires. De l'inoffensif
+poivron (0 SHU) au devastateur Pepper X (2,7 millions SHU), chaque
+piment possede sa fiche complete.
+
+--- CARTE INTERACTIVE ---
+Localisez chaque piment sur sa carte d'origine grace a une carte Leaflet
+interactive. Les marqueurs sont colores par niveau d'intensite. Appuyez
+sur un marqueur pour acceder directement a la fiche du piment.
+
+--- ECHELLE DE SCOVILLE ---
+Decouvrez l'histoire de Wilbur Scoville, la chimie de la capsaicine
+et les sept niveaux d'intensite de l'echelle. Un classement Top 10
+des piments les plus forts du monde complete la section.
+
+--- RECETTES DU MONDE ---
+Six recettes authentiques concues autour des piments :
+- Harissa tunisienne maison
+- Salsa roja mexicaine
+- Curry thai vert
+- Poulet piri-piri
+- Guacamole authentique
+- Ceviche peruvien
+Chaque recette detaille les ingredients, les etapes de preparation
+numerotees et un conseil du chef.
+
+--- QUIZ ---
+Testez vos connaissances avec 10 questions sur les varietes, les
+origines geographiques et l'echelle de Scoville. Reponses commentees
+apres chaque question. Score et medaille a la fin.
+
+Contenu disponible en francais et en anglais (bascule instantanee).
+
+MOTS-CLES (100 car.)
+──────────────────────
+piment,scoville,harissa,jalapeno,habanero,epice,recette,cuisine,carte,quiz,capsaicine,variete
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ENGLISH
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NAME (30 chars)
+────────────────
+Peppers of the World
+
+SUBTITLE (30 chars)
+─────────────────────
+Varieties and Scoville Scale
+
+PROMOTIONAL TEXT (170 chars — updatable without resubmission)
+───────────────────────────────────────────────────────────────
+30 varieties, interactive map, authentic recipes and quiz: everything
+about the world's chili peppers, from mild bell pepper to Pepper X.
+
+DESCRIPTION
+────────────
+Dive into the fascinating world of chili peppers with this bilingual
+French-English reference app.
+
+--- CATALOGUE ---
+30 detailed varieties with Wikipedia photos, geographic origins,
+scientific names, Scoville values and culinary uses. From the harmless
+bell pepper (0 SHU) to the devastating Pepper X (2.7 million SHU),
+every chili has its own complete profile.
+
+--- INTERACTIVE MAP ---
+Locate each pepper on its map of origin using an interactive Leaflet
+map. Markers are color-coded by heat level. Tap a marker to go
+directly to that pepper's profile.
+
+--- SCOVILLE SCALE ---
+Discover the history of Wilbur Scoville, the chemistry of capsaicin
+and the seven intensity levels of the scale. A Top 10 ranking of the
+world's hottest peppers completes the section.
+
+--- WORLD RECIPES ---
+Six authentic recipes built around chili peppers:
+- Homemade Tunisian harissa
+- Mexican salsa roja
+- Thai green curry
+- Piri-piri chicken
+- Authentic guacamole
+- Peruvian ceviche
+Each recipe details ingredients, numbered preparation steps
+and a chef's tip.
+
+--- QUIZ ---
+Test your knowledge with 10 questions about varieties, geographic
+origins and the Scoville scale. Answers explained after each question.
+Score and medal at the end.
+
+Content available in French and English (instant switch).
+
+KEYWORDS (100 chars)
+──────────────────────
+chili,pepper,scoville,harissa,jalapeno,habanero,spicy,recipe,cooking,map,quiz,capsaicin,variety
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INFORMATIONS COMMUNES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Bundle ID
+──────────
+com.michel.garlandat.pimentsmonde
+
+Categorie principale
+─────────────────────
+Education
+
+Categorie secondaire
+─────────────────────
+Food & Drink
+
+Classement age
+───────────────
+4+
+
+Prix au lancement
+──────────────────
+Gratuit
+
+Prix apres lancement
+─────────────────────
+1,99 EUR
+
+Copyright
+──────────
+Michel Garlandat
+
+URL Support
+────────────
+https://migapple.github.io
+
+URL Confidentialite
+────────────────────
+https://migapple.github.io
+
+ITSAppUsesNonExemptEncryption
+──────────────────────────────
+NO
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INFO.PLIST — 3 cles a ajouter (ne pas remplacer le fichier entier)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<key>NSAppTransportSecurity</key>
+<dict>
+    <key>NSAllowsArbitraryLoads</key>
+    <true/>
+</dict>
+
+<key>UIStatusBarStyle</key>
+<string>UIStatusBarStyleLightContent</string>
+
+<key>ITSAppUsesNonExemptEncryption</key>
+<false/>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTES DE VERSION (premiere soumission)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FR :
+Premiere version — 30 varietes de piments avec photos, carte
+interactive, echelle de Scoville illustree, 6 recettes du monde
+et quiz de 10 questions. Bilingue francais-anglais.
+
+EN :
+First version — 30 chili pepper varieties with photos, interactive
+map, illustrated Scoville scale, 6 world recipes and a 10-question
+quiz. Bilingual French-English.
+
+══════════════════════════════════════════════════════════════════════
