@@ -1,0 +1,20 @@
+{
+  "appId": "com.michel.garlandat.pimentspeppers",
+  "appName": "Piments Peppers",
+  "webDir": "App/public",
+  "bundledWebRuntime": false,
+  "backgroundColor": "#070510",
+  "ios": {
+    "backgroundColor": "#070510",
+    "contentInset": "automatic",
+    "scrollEnabled": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    },
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
