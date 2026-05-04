@@ -152,7 +152,7 @@ html,body{height:100%;overflow:hidden;background:var(--bg);font-family:'Cormoran
       </div>
       <div style="display:flex;gap:8px;align-items:center">
         <button class="lang-btn" onclick="toggleLang()" id="langBtn">🇬🇧</button>
-        <button class="lang-btn" onclick="showTab('apps',this)" id="gearBtn" title="Mes Apps">⚙️</button>
+        <button class="lang-btn" onclick="showTab('apps',this)" id="gearBtn" title="Mes Apps">📱</button>
       </div>
     </div>
     <div class="search-wrap" id="searchWrap">
@@ -218,7 +218,7 @@ html,body{height:100%;overflow:hidden;background:var(--bg);font-family:'Cormoran
   </div>
 
   <!-- DETAIL VIEW (overlay) -->
-  <div id="detailView" style="display:none;position:absolute;top:0;left:0;right:0;bottom:0;background:var(--bg);z-index:99;flex-direction:column;overflow:hidden">
+  <div id="detailView" style="display:none;position:fixed;top:0;left:0;right:0;bottom:0;background:var(--bg);z-index:2000;flex-direction:column;overflow:hidden">
     <div class="detail-header">
       <div class="detail-nav">
         <button class="back-btn" onclick="closeDetail()">←</button>
@@ -234,7 +234,7 @@ html,body{height:100%;overflow:hidden;background:var(--bg);font-family:'Cormoran
   </div>
 
   <!-- RECETTE DETAIL (overlay) -->
-  <div id="recetteDetail" style="display:none;position:absolute;top:0;left:0;right:0;bottom:0;background:var(--bg);z-index:100;flex-direction:column;overflow:hidden">
+  <div id="recetteDetail" style="display:none;position:fixed;top:0;left:0;right:0;bottom:0;background:var(--bg);z-index:2000;flex-direction:column;overflow:hidden">
     <div style="padding-top:calc(14px + env(safe-area-inset-top));background:var(--bg);flex-shrink:0;border-bottom:1px solid var(--border)">
       <div style="display:flex;align-items:center;gap:10px;padding:0 16px 10px">
         <button class="back-btn" onclick="closeRecette()">←</button>
@@ -250,11 +250,11 @@ html,body{height:100%;overflow:hidden;background:var(--bg);font-family:'Cormoran
   </div>
 
   <!-- MES APPS VIEW (overlay via gear) -->
-  <div id="appsView" style="display:none;position:absolute;top:0;left:0;right:0;bottom:0;background:var(--bg);z-index:98;flex-direction:column;overflow:hidden">
+  <div id="appsView" style="display:none;position:fixed;top:0;left:0;right:0;bottom:0;background:var(--bg);z-index:2000;flex-direction:column;overflow:hidden">
     <div style="padding-top:calc(14px + env(safe-area-inset-top));background:var(--bg);flex-shrink:0;border-bottom:1px solid var(--border)">
       <div style="display:flex;align-items:center;gap:10px;padding:0 16px 10px">
         <button class="back-btn" onclick="closeApps()">←</button>
-        <div style="font-family:'IM Fell English',serif;color:var(--gold);font-size:20px;flex:1" id="appsTitle">⚙️ Mes Applications</div>
+        <div style="font-family:'IM Fell English',serif;color:var(--gold);font-size:20px;flex:1" id="appsTitle">📱 Mes Applications</div>
       </div>
     </div>
     <div id="appsList" style="flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding-bottom:calc(12px + env(safe-area-inset-bottom))"></div>
